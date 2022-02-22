@@ -1,0 +1,638 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of religion, agreed upon by both Houses and the principall divines thorough [sic] all England and Wales for the avoiding of diversities of opinions whereunto is added His Majesties declaration in confirming the same.</title>
+            <title>Thirty-nine Articles</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25944</idno>
+            <idno type="STC">Wing A3867</idno>
+            <idno type="STC">ESTC R6456</idno>
+            <idno type="EEBO-CITATION">11795950</idno>
+            <idno type="OCLC">ocm 11795950</idno>
+            <idno type="VID">49313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 8:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of religion, agreed upon by both Houses and the principall divines thorough [sic] all England and Wales for the avoiding of diversities of opinions whereunto is added His Majesties declaration in confirming the same.</title>
+                  <title>Thirty-nine Articles</title>
+                  <author>Church of England.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[4], [12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Theophilus Brown,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties speciall command"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Creeds.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49313:1" rendition="simple:additions"/>
+            <pb facs="tcp:49313:1"/>
+            <p>ARTICLES OF RELIGION: AGREED UPON By both Houſes, and the principall Divines thorough all <hi>England</hi> and <hi>Wales,</hi> for the avoiding of diver<g ref="char:EOLhyphen"/>ſities of Opinions.</p>
+            <p>
+               <hi>Whereunto is added His MAJESTIES Declaration in confirming the ſame.</hi>
+            </p>
+            <p>Publiſhed by His Majeſties ſpeciall Command.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Theophilus Brown.</hi> 1642.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:49313:2"/>
+            <pb facs="tcp:49313:2"/>
+            <head>By the King.</head>
+            <p>BEing by Gods Ordinance, according to Our juſt Title, <hi>De<g ref="char:EOLhyphen"/>fender of the Faith,</hi> &amp; ſupreme Governour of the Church within theſe Our Dominions, We hold it moſt agreeable to this Our Kingly Office, and Our own Religious Zeale, to conſerve and maintain the Church committed to Our charge in the unity of true Religion, and in the bond of peace: and not to ſuffer unne<g ref="char:EOLhyphen"/>ceſſary diſputations, altercations, or queſtions to be raiſed, which may nouriſh faction both in Church and Common-wealth. We have therefore upon mature deliberation, and with the advice of ſo many of Our Biſhops as might conveniently be called together, thought fit to make this Declaration following: That the Articles of the Church of <hi>England</hi> (which have beene allowed and au<g ref="char:EOLhyphen"/>thorized heretofore, and which Our Clergie generally have ſub<g ref="char:EOLhyphen"/>ſcribed unto) do contain the true doctrine of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> agreeable to Gods Word: which We doe therefore ratifie and confirm, requiring all Our loving Subjects to continue in the uni<g ref="char:EOLhyphen"/>forme profeſsion thereof, and prohibiting the leaſt difference from the ſaid Articles, which to that end We command to be new prin<g ref="char:EOLhyphen"/>ted, and this Our Declaration to be publiſhed therewith.</p>
+            <p>That We are ſupreme Governour of the Church of <hi>England:</hi> and that if any difference ariſe about the externall policy, concer<g ref="char:EOLhyphen"/>ning <hi>Injunctions, Canons,</hi> or other <hi>Conſtitutions</hi> thereto be<g ref="char:EOLhyphen"/>longing, the Clergie in their Convocation is to order and ſettle them, having firſt obtained leave under Our broad Seal ſo to do: and We approving their ſaid Ordinances and Conſtitutions, pro<g ref="char:EOLhyphen"/>viding that none be made contrary to the Lawes and Cuſtomes of the Land.</p>
+            <p>That out of Our Princely care, that the Church-men may doe the work which is proper unto them, the Biſhops and Clergie, from time to time in Convocation, upon their humble deſire, ſhall have
+<pb facs="tcp:49313:3"/>licence under Our broad Seal, to deliberate of, and to do all ſuch things, as being made plaine by them, and aſſented unto by Us, ſhall concern the ſetled continuance of the doctrine and diſcipline of the Church of <hi>England</hi> now eſtabliſhed; from which We will not indure any varying, or departing in the leaſt degree.</p>
+            <p>That for the preſent, though ſome differences have been ill raiſed, yet We take comfort in this, that all Clergie-men within Our Realm, have alwayes moſt willingly ſubſcribed to the Arti<g ref="char:EOLhyphen"/>cles eſtabliſhed, which is an argument to Us, that they all agree in the true uſuall literall meaning of the ſaid Articles, and that e<g ref="char:EOLhyphen"/>ven in thoſe curious points in which the preſent differences lie, men of all ſorts take the Articles of the Church of <hi>England</hi> to be for them, which is an argument again that none of them intend any deſertion of the Articles eſtabliſhed.</p>
+            <p>That therefore in theſe both curious and unhappy differences, which have for ſo many hundred yeers, in different times and places exerciſed the Church of <hi>Chriſt:</hi> We will that all further curious ſearch be laid aſide, and thoſe diſputes ſhut up in Gods promiſes, as they be generally ſet forth to us in the holy Scriptures; and the generall meaning of the Articles of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> according to them. And that no man hereafter ſhall either print or preach, to draw the Article aſide any way, but ſhall ſub<g ref="char:EOLhyphen"/>mit to it in the plain and full meaning thereof, and ſhall not put his own ſenſe or Comment to be the meaning of the Article, but ſhall take it in the literall and Grammaticall ſenſe.</p>
+            <p>That if any publike Reader in either Our Univerſities, or any Head or Maſter of a Colledge, or any other perſon reſpectively in either of them, ſhall affix any new ſenſe to any Article, or publike<g ref="char:EOLhyphen"/>ly read, determine, or hold any publike diſputation, or ſuffer any ſuch to be held either way, in either the Univerſities or Colledges reſpectively, or if any Divine ſhall preach or print any thing ei<g ref="char:EOLhyphen"/>ther way other then is already eſtabliſhed in Convocation with Our Royall aſſent, they the offenders ſhalbe liable to Our diſpleaſure, &amp; the Churches cenſure in Our Commiſsion Eccleſiaſticall, as wel as any other: and We will ſee there ſhalbe due execution upon them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49313:3"/>
+            <head>ARTICLES OF RELIGION.</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>1.</hi> Of faith in the holy Trinity.</head>
+               <p>THere is but one living and true God, everlaſting, without bo<g ref="char:EOLhyphen"/>dy, parts, or paſſions; of infinite power, wiſdom, &amp; goodneſſe, the maker and preſerver of all things both viſiible and invi<g ref="char:EOLhyphen"/>ſible. And in unity of this Godhead there be three perſons, of one ſubſtance, power, and eternity; the Father, the Son, the holy Ghoſt.</p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>2.</hi> Of the Word or Son of God, which was made very man.</head>
+               <p>The Son, which is the Word of the Father, begotten from everla<g ref="char:EOLhyphen"/>ſting of the Father, the very eternall God, of one ſubſtance with the Father, took mans nature in the womb of the bleſſed Virgin, of her ſubſtance: ſo that two whole and perfect natures, that is to ſay, the Godhead and manhood, were joyned together in one perſon, never to be divided, whereof is one Chriſt, very God and very man, who truly ſuffered, was crucified, dead, and buried, to reconcile his Father to us, and to be a ſacrifice, not onely for originall guilt, but alſo for actuall ſins of men.</p>
+            </div>
+            <div n="3" type="article">
+               <head>
+                  <hi>3.</hi> Of the going down of Chriſt into hell.</head>
+               <p>As Chriſt died for us, and was buried: ſo alſo is it to be beleeved that he went down into hell.</p>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>4.</hi> Of the Reſurrection of Chriſt.</head>
+               <p>Chriſt did truly riſe again from death, and took again his body,
+<pb facs="tcp:49313:4"/>with fleſh, bones, and all things appertaining to the perfection of mans nature, wherewith he aſcended into heaven, and there ſitteth, untill he return to judge all men at the laſt day.</p>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>5.</hi> Of the holy Ghoſt.</head>
+               <p>The holy Ghoſt, proceeding from the Father and the Son, is of one ſubſtance, Majeſty and Glory, with the Father and the Son, very and eternall God.</p>
+            </div>
+            <div n="6" type="article">
+               <head>
+                  <hi>6.</hi> Of the ſufficiencie of the holy Scriptures for ſalvation.</head>
+               <p>Holy Scripture containeth all things neceſſary to ſalvation: ſo that whatſoever is not read therein, nor may be proved thereby, is not to be required of any man, that it ſhould be beleeved as an Article of the faith, or be thought requiſite or neceſſary to ſalvation. In the name of the holy Scripture, we do underſtand thoſe Canonicall Books of the Old and New Teſtament, of whoſe authority was ne<g ref="char:EOLhyphen"/>ver any doubt in the Church.</p>
+               <list>
+                  <head>Of the names and numbers of the Canonicall Books.</head>
+                  <item>
+                     <hi>Geneſis.</hi>
+                  </item>
+                  <item>
+                     <hi>Exodus.</hi>
+                  </item>
+                  <item>
+                     <hi>Leviticus.</hi>
+                  </item>
+                  <item>
+                     <hi>Numeri.</hi>
+                  </item>
+                  <item>
+                     <hi>Deuteronomium.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſue.</hi>
+                  </item>
+                  <item>
+                     <hi>Judges.</hi>
+                  </item>
+                  <item>
+                     <hi>Ruth.</hi>
+                  </item>
+                  <item>
+                     <hi>The firſt Book of Samuel.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond Book of Samuel.</hi>
+                  </item>
+                  <item>
+                     <hi>The firſt Book of Kings.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond Book of Kings.</hi>
+                  </item>
+                  <item>
+                     <hi>The firſt Book of Chronicles.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond Book of Chronic.</hi>
+                  </item>
+                  <item>
+                     <hi>The firſt Book of Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond Book of Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>The Book of Heſter.</hi>
+                  </item>
+                  <item>
+                     <hi>The Book of Job.</hi>
+                  </item>
+                  <item>
+                     <hi>The Pſalms.</hi>
+                  </item>
+                  <item>
+                     <hi>The Proverbs.</hi>
+                  </item>
+                  <item>
+                     <hi>Eccleſiaſtes, or Preacher.</hi>
+                  </item>
+                  <item>
+                     <hi>Cantica, or Songs of Solomon.</hi>
+                  </item>
+                  <item>
+                     <hi>Foure Prophets the greater.</hi>
+                  </item>
+                  <item>
+                     <hi>Twelve Prophets the leſſe.</hi>
+                  </item>
+               </list>
+               <p>And the other Books (as <hi>Hierome</hi> ſaith) the Church doth read for example of life and inſtruction of manners; but yet doth it not apply them to eſtabliſh any doctrine; Such are theſe following.</p>
+               <pb facs="tcp:49313:4"/>
+               <list>
+                  <item>
+                     <hi>The third Book of Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>The fourth Book of Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>The Book of Tobias.</hi>
+                  </item>
+                  <item>
+                     <hi>The Book of Judeth.</hi>
+                  </item>
+                  <item>
+                     <hi>The reſt of the Book of Heſter</hi>
+                  </item>
+                  <item>
+                     <hi>The Book of Wiſdom.</hi>
+                  </item>
+                  <item>
+                     <hi>Jeſus the ſon of Sirach.</hi>
+                  </item>
+                  <item>
+                     <hi>Baruch the Prophet.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſong of the three childre<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>The Story of Suſanna.</hi>
+                  </item>
+                  <item>
+                     <hi>Of Bell and the Dragon.</hi>
+                  </item>
+                  <item>
+                     <hi>The prayer of Manaſſes.</hi>
+                  </item>
+                  <item>
+                     <hi>The firſt Book of Maccabees.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond Book of Maccab.</hi>
+                  </item>
+               </list>
+               <p>All the books of the new Teſtament, as they are commonly recei<g ref="char:EOLhyphen"/>ved, we do receive and account them Canonicall.</p>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>7.</hi> Of the old Teſtament.</head>
+               <p>The old Teſtament is not contrary to the new, for both in the old and new Teſtament, everlaſting life is offered to mankinde by Chriſt, who is the only Mediator between God and man, being both God and man. Wherfore they are not to be heard, which feign that the old Fathers did look only for tranſitory promiſes. Although the law given from God by Moſes, as touching Ceremonies and Rites, do not binde Chriſtian men, nor the civill precepts thereof ought of neceſſity to be received in any Commonwealth: yet notwithſtanding no Chriſtian man whatſoever, is free from the obedience of the com<g ref="char:EOLhyphen"/>mandments, which are called Morall.</p>
+            </div>
+            <div n="8" type="article">
+               <head>
+                  <hi>8.</hi> Of the three Creeds.</head>
+               <p>The three Creeds, Nice Creed, Athanaſius Creed, and that which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s commonly called the Apoſtles Creed, ought thorowly to be recei<g ref="char:EOLhyphen"/>ved and beleeved: for they may be proved by moſt certain warrants of holy Scripture.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>9.</hi> Of originall birth or ſin.</head>
+               <p>Originall ſin ſtandeth not in the following of <hi>Adam,</hi> (as the Pela<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians do vainly talk) but it is the fault and corruption of the nature of every man, that naturally is ingendred of the off-ſpring of <hi>Adam,</hi> wherby man is very far gone from originall righteouſneſſe, and is of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is own nature enclined to evil, ſo that the fleſh luſteth alwayes con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rary to the ſpirit, and therfore in every perſon born into this world, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deſerveth Gods wrath and damnation. And this infection of na<g ref="char:EOLhyphen"/>ture
+<pb facs="tcp:49313:5"/>doth remain, yea, in them that are regenerated whereby the luſt of the fleſh, called in Greek <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſome do expound the wiſdom, ſome ſenſuality, ſome the affection, ſome the deſire of the fleſh, is not ſubject to the law of God. And although there is no con<g ref="char:EOLhyphen"/>demnation for them that beleeve and are baptized, yet the Apoſtle doth confeſſe, that concupiſcence and luſt, hath of it ſelfe the nature of ſin.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>10.</hi> Of free will.</head>
+               <p>The condition of man after the fall of <hi>Adam,</hi> is ſuch, that he can<g ref="char:EOLhyphen"/>not turn and prepare himſelf by his own naturall ſtrength and good works to faith and calling upon God: Wherefore we have no power to do good works pleaſant and acceptable to God, without the grace of God by Chriſt preventing us, that we may have a good will, and working with us, when we have that good will.</p>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>11.</hi> Of the Iuſtification of man.</head>
+               <p>We are accounted righteous before God, only for the merit of our Lord and Saviour Ieſus Chriſt by faith and not for our own works, or deſervings. Wherefore, that we are juſtified by faith onely, is a moſt wholeſome doctrine, and very full of comfort, as more largely is expreſſed in the Homily of Iuſtification.</p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>12.</hi> Of good works.</head>
+               <p>Albeit that good works, which are the fruits of faith, and follow after Juſtification, cannot put away our ſins, and endure the ſeverity of Gods judgement, yet are they pleaſing and acceptable to God in Chriſt, and do ſpring out neceſſarily of a true and lively faith, in ſo much that by them a lively faith may be as evidently known, as a tree diſcerned by the fruit.</p>
+            </div>
+            <div n="13" type="article">
+               <head>
+                  <hi>13.</hi> Of works before juſtification.</head>
+               <p>Works done before the grace of Chriſt, and the inſpiration of his Spirit, are not pleaſant to God, foraſmuch as they ſpring not of faith in Ieſu Chriſt, neither do they make men meet to receive grace, or (as the ſchool-authors ſay) deſerve grace of congruity: yea, rather for that they are not done as God hath willed and commanded them to be done, we doubt not but they have the nature of ſin.</p>
+            </div>
+            <div n="14" type="article">
+               <pb facs="tcp:49313:5"/>
+               <head>
+                  <hi>14.</hi> Of works of ſupererogation.</head>
+               <p>Voluntary works beſides, over and above Gods commandments, which they call works of ſupererogation, cannot be taught without arrogancy and impietie. For by them men do declare that they do not onely render unto God as much as they are bound to do, but that they do more for his ſake then of bounden duty is required: Whereas Chriſt ſaith plainly, When ye have done all that are com<g ref="char:EOLhyphen"/>manded to you, ſay, We are unprofitable ſervants.</p>
+            </div>
+            <div n="15" type="article">
+               <head>
+                  <hi>15.</hi> Of Chriſt alone without ſin.</head>
+               <p>Chriſt in the truth of our nature was made like us in all things (ſin only except) from which he was clearly void, both in his fleſh and in his ſpirit He came to be a Lamb without ſpot, who by ſacrifice of himſelf once made, ſhould take away the ſins of the world: and ſin (as S. <hi>John</hi> ſaith) was not in him. But all we the reſt (altough bap<g ref="char:EOLhyphen"/>tized, and born again in Chriſt) yet offend in many things, and if we ſay we have no ſin, we deceive our ſelves, and the truth is not in us.</p>
+            </div>
+            <div n="16" type="article">
+               <head>
+                  <hi>16.</hi> Of ſin after Baptiſme.</head>
+               <p>Not every deadly ſin willingly committed after Baptiſme is ſin a<g ref="char:EOLhyphen"/>gainſt the holy Ghoſt, and unpardonable. Wherefore the grant of repentance is not to be denied to ſuch as fall into ſin after Baptiſme. After we have received the holy Ghoſt, we may depart from grace given, and fall into ſin, and by the grace of God (we may) ariſe again, and amend our lives. And therefore they are to be condemned, which ſay they can no more ſin as long as they live here, to deny the place of forgiveneſſe to ſuch as truely repent.</p>
+            </div>
+            <div n="17" type="article">
+               <head>
+                  <hi>17.</hi> Of Predeſtination and Election.</head>
+               <p>Predeſtination to life is the everlaſting purpoſe of God, whereby (before the foundations of the world were laid) he hath conſtantly decreed by his counſell, ſecret to us, to deliver from curſe and dam<g ref="char:EOLhyphen"/>nation thoſe whom he hath choſen in Chriſt out of mankinde, and to bring them by Chriſt to everlaſting ſalvation, as veſſels made to honour. Wherefore they which be indued with ſo excellent a bene<g ref="char:EOLhyphen"/>fit of God, be called according to Gods purpoſe by his Spirit work<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:49313:6"/>in due ſeaſon: they through grace obey the calling: they be juſ<g ref="char:EOLhyphen"/>tified freely: they be made ſons of God by adoption: they be made like the Image of his onely begotten Son Ieſus Chriſt: they walk religiouſly in good works, and at length by Gods mercy they attain to everlaſting felicity.</p>
+               <p>As the godly conſideration of Predeſtination and our Election in Chriſt is full of ſweet, pleaſant, and unſpeakable comfort to godly perſons, and ſuch as feel in themſelves the working of the Spirit of Chriſt mortifying the works of the fleſh, and their earthly members, and drawing up their minde to high and heavenly things, as well be<g ref="char:EOLhyphen"/>cauſe it doth greatly eſtabliſh and confirm their faith of eternall ſal<g ref="char:EOLhyphen"/>vation, to be enjoyed through Chriſt, an becauſe it doth fervently kindle their love towards God: So for curious and carnall perſons, lacking the Spirit of Chriſt, to have continually before their eyes the ſentence of Gods predeſtination, is a moſt dangerous downfall, whereby the devil doth thruſt them either into deſperation, or into wretchleſneſſe of moſt unclean living, no leſſe perillous then deſpe<g ref="char:EOLhyphen"/>ration.</p>
+               <p>Furthermore, we muſt receive Gods promiſes in ſuch wiſe as they be generally ſet forth to us in holy Scripture: and in our doings that will of God is to be followed, which we have expreſly declared unto us in the Word of God</p>
+            </div>
+            <div n="18" type="article">
+               <head>
+                  <hi>18.</hi> Of obtaining eternall ſalvation onely by the Name of Chriſt.</head>
+               <p>They alſo are to be had accurſed, that preſume to ſay that every man ſhall be ſaved by the law or ſect which he profeſſeth, ſo that he be diligent to frame his life according to that law, and the light of nature. For holy Scripture doth ſet out unto us only the name of Ie<g ref="char:EOLhyphen"/>ſus Chriſt whereby men muſt be ſaved.</p>
+            </div>
+            <div n="19" type="article">
+               <head>
+                  <hi>19.</hi> Of the Church.</head>
+               <p>The viſible Church of Chriſt is a congregation of faithfull men, in the which the pure Word of God is preached, and the Sacraments be duly miniſtred, according to Chriſts ordinance, in all thoſe things that of neceſity are requiſitie to the ſame.</p>
+               <pb facs="tcp:49313:6"/>
+               <p>As the Church of Ieruſalem, Alexandria, and Antioch have erred: So alſo the Church of Rome hath erred, not onely in their living and manner of ceremonies, but alſo in matters of faith.</p>
+            </div>
+            <div n="20" type="article">
+               <head>
+                  <hi>20.</hi> Of the authority of the Church.</head>
+               <p>The Church hath power to decree Rights or Ceremonies, and au<g ref="char:EOLhyphen"/>thority in controverſies of faith: And yet it is not lawfull for the Church to ordain any thing that is contrary to Gods word written, neither may it ſo expound one place of ſcripture, that it be repugnant to another. Wherfore although the church be a witneſſe and a keep<g ref="char:EOLhyphen"/>er of holy Writ, yet as it ought not to decree any thing againſt the ſame, ſo beſides the ſame ought it not to enforce any thing to be be<g ref="char:EOLhyphen"/>leeved for neceſſity of ſalvation.</p>
+            </div>
+            <div n="21" type="article">
+               <head>
+                  <hi>21.</hi> Of the authority of generall Councels.</head>
+               <p>Generall Councels may not be gathered together without the commandment and will of princes. And when they be gathered to<g ref="char:EOLhyphen"/>gether (foraſmuch as they be an aſſembly of men, whereof all be not governed with the Spirit and Word of God) they may erre, and ſometime have erred, even in things pertaining unto God. Wherefore things ordained by them as neceſſary to ſalvation, have neither ſtrength nor authority, unleſſe it may be declared that they be taken out of holy Scripture.</p>
+            </div>
+            <div n="22" type="article">
+               <head>
+                  <hi>22.</hi> Of Purgatorie.</head>
+               <p>The Romiſh doctrine concerning Purgatory, Pardons, worſhip<g ref="char:EOLhyphen"/>ping and adoration, aſwell of Images, as of Reliques, and alſo invoca<g ref="char:EOLhyphen"/>tion of Saints is a fond thing, vainly invented, and grounded upon no warranty of Scripture, but rather repugnant to the Word of God.</p>
+            </div>
+            <div n="23" type="article">
+               <head>
+                  <hi>23.</hi> Of miniſtring in the congregation.</head>
+               <p>It is not lawfull for any man to take upon him the office of publike preaching, or miniſtring the Sacraments in the Congregation, before he be lawfully called, and ſent to execute the ſame. And thoſe we ought to judge lawfully called and ſent, which be choſen and called to this work by men, who have publike authority given unto them in the Congregation, to call and ſend Miniſters into the Lords vine<g ref="char:EOLhyphen"/>yard.</p>
+            </div>
+            <div n="24" type="article">
+               <pb facs="tcp:49313:7"/>
+               <head>
+                  <hi>24.</hi> Of ſpeaking in the Congregation in a knowne tongue.</head>
+               <p>It is a thing plainly repugnant to the word of God, &amp; the cuſtom of the Primitive Church, to have publike praier in the Church, or to miniſter the Sacraments in a tongue not underſtood of the people.</p>
+            </div>
+            <div n="25" type="article">
+               <head>
+                  <hi>25,</hi> Of the Sacraments.</head>
+               <p>Sacraments ordained of Chriſt be not onely badges or tokens of Chriſtian mens profeſſion: but rather they be certain ſure witneſſes, and effectuall ſignes of grace and Gods good will towards us, by the which he doth work inviſible in us, and doth not onely quicken, but alſo ſtrengthen and confirm our faith in him.</p>
+               <p>There are Two Sacraments ordained of Chriſt our Lord in the Goſpel, that is to ſay, Baptiſme, and the Supper of the Lord.</p>
+               <p>Thoſe five commonly called Sacraments, that is to ſay Confir<g ref="char:EOLhyphen"/>mation, Penance, Orders, Matrimony, and extream Vnction, are not to be counted for Sacraments of the Goſpel, being ſuch as have grown, partly of the cortupt following of the Apoſtles, partly are ſtates of life allowed in the Scriptures: but yet have not like nature of Sacraments with Baptiſme and the Lords Supper, for that they have not any viſible ſigne or ceremony ordained of God.</p>
+               <p>The Sacraments were not ordained of Chriſt to be gazed upon, or to be carried about, but that we ſhould duely uſe them. And in ſuch onely, as worthily receive the ſame, they have a wholſome effect or operation: but they that receive them unworthily purchaſe to themſelves damnation, as <hi>S. Paul</hi> ſaith.</p>
+            </div>
+            <div n="26" type="article">
+               <head>
+                  <hi>26.</hi> Of the unworthineſſe of the Miniſters which hinder not the effect of the Sacraments.</head>
+               <p>Although in the viſible church the evil mingled with the good, and ſometime the evil have chief authority in the miniſtration of the Word and Sacrament: yet foraſmuch as they do not the ſame in their own name, but in Chriſts, and do miniſter by his commiſſion &amp; authority, we may uſe their miniſtery both in hearing the word of God, and in the receiving of the Sacraments. Neither is the effect of Chriſts ordinance taken away by their wickedneſſe, nor the grace of
+<pb facs="tcp:49313:7"/>Gods gifts diminiſhed from ſuch, as by faith, and rightly do receive the Sacraments miniſtred unto them, which be effectuall, becauſe of Chriſts inſtitution and promiſe, though they be miniſtred by evil men.</p>
+               <p>Nevertheleſſe, it appertaineth to the diſcipline of the Church, that enquiry be made of evil Miniſters, and that they be accuſed by thoſe that have knowledge of their offences: and finally being found guilty, by juſt judgement be depoſed.</p>
+            </div>
+            <div n="27" type="article">
+               <head>
+                  <hi>27.</hi> Of Baptiſme.</head>
+               <p>Baptiſme is not onely a ſigne of profeſſion, and mark of difference, whereby Chriſtian men are diſerned from others that be not Chri<g ref="char:EOLhyphen"/>ſtened: but it is alſo a ſigne of Regeneration or new birth whereby, as by an inſtrument, they that receive Baptiſme rightly are grafted into the Church, the promiſes of the forgiveneſſe of ſin, and of our adoption to be the ſons of God, by the holy Ghoſt, and viſibly ſigned and ſealed: faith is confirmed, and grace increaſed by vertue of prayer unto God. The Baptiſme of young children is in any wiſe to be re<g ref="char:EOLhyphen"/>teined in the Church, as moſt agreeable with the inſtitution of Chriſt.</p>
+            </div>
+            <div n="28" type="article">
+               <head>
+                  <hi>28.</hi> Of the Lords Supper.</head>
+               <p>The Supper of the Lord is not onely a ſigne of the love that Chriſtians ought to have among themſelves one to another: but ra<g ref="char:EOLhyphen"/>ther it is a Sacrament of our redemption by Chriſts death. Inſomuch that to ſuch as rightly, worthily, and with faith receive the ſame, the bread which we break, is a partaking of the body of Chriſt: and like<g ref="char:EOLhyphen"/>wiſe the Cup of bleſſing is a partaking of the blood of Chriſt.</p>
+               <p>Tranſubſtantiation (or the change of the ſubſtance of Bread and wine) in the Supper of the Lord, cannot be proved by holy Writ: but it is repugnant to the plain words of Scripture, overthroweth the na<g ref="char:EOLhyphen"/>ture of a Sacrament, and hath given occaſion to many ſuperſtitions.</p>
+               <p>The body of Chriſt is given, taken, and eaten in the ſupper onely af<g ref="char:EOLhyphen"/>ter an heavenly and ſpirituall manner. And the mean whereby the body of Chriſt is received and eaten in the Supper, is Faith.</p>
+               <p>The Sacrament of the Lords Supper was not by Chriſts ordinance reſerved, carried about, lifted up, or worſhipped.</p>
+            </div>
+            <div n="29" type="article">
+               <pb facs="tcp:49313:8"/>
+               <head>
+                  <hi>29.</hi> Of the wicked which eat not the body of Chriſt in the uſe of the Lords Supper.</head>
+               <p>The wicked, and ſuch as be void of lively faith, although they doe carnally and viſibly preſſe with their teeth (as S. <hi>Auguſtine</hi> ſaith) the Sacrament of the body and blood of Chriſt: yet in no wiſe are they partakers of Chriſt, but rather to their condemnation do eat and drink the ſigne or Sacrament of ſo great a thing.</p>
+            </div>
+            <div n="30" type="article">
+               <head>
+                  <hi>30.</hi> Of both kindes.</head>
+               <p>The Cup of the Lord is not to bee denied to the Lay-people. For both the parts of the Lord Sacrament, by Chriſts ordinance and commandment, ought to be miniſtred to all Chriſtian men a like.</p>
+            </div>
+            <div n="31" type="article">
+               <head>31. Of Chriſts one Oblation.</head>
+               <p>
+                  <hi>The Offering of Chriſt once made, is that perfect redemption, propitiation and ſa<g ref="char:EOLhyphen"/>risfaction for all the ſins of the whole world, both originall and actuall, and there is none other ſatisfaction for ſin, but that alone. Wherfore the ſacrifices of Maſſes, in the which it was commonly ſaid, that the Prieſt did offer Chriſt for the quick &amp; the dead, to have remiſſion of pain or guilt, were blaſphemous fables, and dangerous deceits.</hi>
+               </p>
+            </div>
+            <div n="32" type="article">
+               <head>32. Of the Traditions of the Church.</head>
+               <p>
+                  <hi>Biſhops, Prieſts, and Deacons are not commanded by God law, either to vow the e<g ref="char:EOLhyphen"/>ſtate of ſingle life, or to abſtain from marriage: therefore it is lawfull alſo for them, as for all other Chriſtian men, to marry at their own diſcretion, as they ſhall judge the ſame to ſerve better to godlineſſe.</hi>
+               </p>
+            </div>
+            <div n="33" type="article">
+               <head>33 Of excommunicate perſons, and how they are to be avoided.</head>
+               <p>
+                  <hi>That perſon which by open denunciation of the Church, is rightly cut off from the unity of the Church, and excommunicated, ought to be taken of the whole multitude of the faithfull as an Heathen and Publican, untill he be openly reconciled by Penance, and received into the Church by a Iudge that hath authoritie thereto.</hi>
+               </p>
+            </div>
+            <div n="34" type="article">
+               <head>34. Of Traditions of the Church.</head>
+               <p>
+                  <hi>It is not neceſſarie that Traditions and Ceremonies be in all places one, or utterly like, for at all times they have been divers, and may be changed according so the diver<g ref="char:EOLhyphen"/>ſity of countreys, times, and mens manners, ſo that nothing be ordained againſt Gods Word. Whoſoever through his private judgement, willingly and purpoſely doth openly break the Traditions and Ceremonies of the Church, which be not repugnant to the Word of God, and be ordained and approved by common authoritie, ought to be rebuked openly, (that other may fear to do the like) as he that offendeth againſt the common order of the Church, and burteth the authority of the Magiſtrate, and woundeth the conſciences of the weak brethren. Every particular or nationall Church hath au<g ref="char:EOLhyphen"/>thority
+<pb facs="tcp:49313:8"/>to ordain change, and aboliſh Ceremonies or Rites of the Church, ordained only by mans authority, ſo that all things be done to edifying.</hi>
+               </p>
+            </div>
+            <div n="35" type="article">
+               <head>35. Of Homilies.</head>
+               <p>
+                  <hi>The ſecond Book of Homilies doth contain a godly and wholſome doctrine, and ne<g ref="char:EOLhyphen"/>ceſſarie for theſe times, as doth the former Book of Homilies, which were ſet forth by the time of</hi> Edward <hi>the ſixth: and therefore we judge them to be read in Churches ni <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Miniſters diligently and diſtinctly, that they may be underſtanded of the people.</hi>
+               </p>
+               <list>
+                  <head>Of the names of the Homilies.</head>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Of the right uſe of the Church.</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Againſt perill of Idolatry.</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Of the repairing and keeping cleane of Churches.</hi>
+                  </item>
+                  <item>4 <hi>Of good works, firſt of faſting.</hi>
+                  </item>
+                  <item>5 <hi>Againſt gluttony and drunkenneſſe.</hi>
+                  </item>
+                  <item>6 <hi>Againſt exceſſe of apparell.</hi>
+                  </item>
+                  <item>7 <hi>Of praier.</hi>
+                  </item>
+                  <item>8 <hi>Of the place and time of Praier.</hi>
+                  </item>
+                  <item>9 <hi>That common Praiers &amp; Sacraments ought to bee miniſtred in a known tongue.</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 <hi>Of the reverent eſtimation of Gods Word.</hi>
+                  </item>
+                  <item>11 <hi>Of almes-doing.</hi>
+                  </item>
+                  <item>12 <hi>Of the Nativity of Chriſt.</hi>
+                  </item>
+                  <item>13 <hi>Of the Paſſion of Chriſt.</hi>
+                  </item>
+                  <item>14 <hi>Of the Reſurrection of Chriſt.</hi>
+                  </item>
+                  <item>15 <hi>Of the worthy receiving of the Sa<g ref="char:EOLhyphen"/>crament of the Body and Blood of Chriſt.</hi>
+                  </item>
+                  <item>16 <hi>Of the gifts of the Holy Ghoſt.</hi>
+                  </item>
+                  <item>17 <hi>For the Rogation daies.</hi>
+                  </item>
+                  <item>18 <hi>Of the ſtate of Matrimonie.</hi>
+                  </item>
+                  <item>19 <hi>Of Repentance.</hi>
+                  </item>
+                  <item>20 <hi>Againſt Idleneſſe.</hi>
+                  </item>
+                  <item>21 <hi>Againſt Rebellion.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="36" type="article">
+               <head>36. Of Conſecration of Miniſters.</head>
+               <p>
+                  <hi>The book of Conſecrations of Archbiſhops and Biſhops, and ordering of Prieſts and Deacons, lately ſet forth in the time of</hi> Edward <hi>the ſixth, and confirmed at the ſame <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime by authoritie of Parliament, doth contain all things neceſſarie to ſuch Conſecra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion and ordering: neither hath it any thing that of it ſelfe is ſuperſtitious and ungod<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. And ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore, whoſoever are conſecrated or ordered according to the Rites of that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ooke, ſince the ſecond yeer of the afore-named King</hi> Edward <hi>unto this time, or here<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fter ſhall be conſecrated, or ordered according to the ſame Rites, we decree all ſuch to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e rightly, orderly, and lawfully conſecrated and ordered.</hi>
+               </p>
+            </div>
+            <div n="37" type="article">
+               <head>37 Of the civill Magiſtrates.</head>
+               <p>
+                  <hi>The Queens Majeſty hath the chiefe power in this Realm of</hi> England, <hi>and other <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r Dominions, unto whom the chiefe government of all eſtates of this Realm, whe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her they be Eccleſiaſticall or Civill, in all cauſes doth appertain, and is not, nor ought <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be ſubject to any forraign Iuriſdiction.</hi>
+               </p>
+               <p>
+                  <hi>Where we attribute to the Queens Majeſtie the chiefe government, by which Ti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es we underſtand the minds of ſome ſlanderous folks to be offended, we give not to our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rinces the miniſtring, either of Gods Word, or of the Sacraments, the which thing</hi>
+                  <pb facs="tcp:49313:9"/>the Injunctions alſo lately ſet forth by <hi>Elizabeth</hi> our Queene, doe mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> plainly teſtifie: but that only prerogative which we ſee to have been given always to all godly Princes in holy Scriptures by God himſelfe that is, that they ſhould rule all eſtates and degrees committed to thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> charge by God, whether they be Eccleſiaſticall or Temporall, and re<g ref="char:EOLunhyphen"/>ſtrain with the civill ſword the ſtubborn and evill doers.</p>
+               <p>The Biſhop of <hi>Rome</hi> hath no Juriſdiction in this Realm of <hi>England</hi>
+               </p>
+               <p>The Lawes of the Realm may puniſh Chriſtian men with death, fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heinous and grievous offences.</p>
+               <p>It is lawfull for Chriſtian men, at the commandment of the Magi<g ref="char:EOLhyphen"/>ſtrate to wear weapons, and ſerve in the wars.</p>
+            </div>
+            <div n="38" type="article">
+               <head>
+                  <hi>38.</hi> Of Chriſtian mens goods, which are not common.</head>
+               <p>The riches and goods of Chriſtians are not common, as touching the right, title, and poſſeſſion of the ſame, as certaine Anabaptiſts do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> falſly boaſt. Notwithſtanding, every man ought of ſuch things as h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poſſeſſeth, liberally to give alms to the poor, according to his ability.</p>
+            </div>
+            <div n="39" type="article">
+               <head>
+                  <hi>39.</hi> Of a Chriſtian mans oath.</head>
+               <p>As we confeſſe that vain and raſh ſwearing is forbidden Chriſtian men by our Lord Jeſus Chriſt, and James his Apoſtle: ſo we judge tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſtian Religion doth not prohibit, but that a man may ſwear wher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Magiſtrate requireth, in a cauſe of faith and charity, ſo it be don<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> according to the Prophets teaching; in juſtice, judgment and truth.</p>
+            </div>
+            <div n="40" type="ratification">
+               <head>
+                  <hi>40.</hi> The Ratification.</head>
+               <p>
+                  <hi>THis Book of Articles before rehearſed is again approved, and allowed to be holden and executed within the Realm, by the aſſent and conſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of our Soveraigne Lady</hi> Elizabeth <hi>by the grace of God, of England France and Ireland Queen, Defender of the Faith, &amp;c. Which Article were deliberately read, and confirmed again by the ſubſcription of the han<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Archbiſhop and Biſhop of the upper Houſe, and by the ſubſcription o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the whole Clergie in the nether Houſe in their Convocation, in the yeer of ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord God,</hi> 1571.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49313:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
